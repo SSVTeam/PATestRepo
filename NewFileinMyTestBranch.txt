@@ -1,1 +1,3 @@
 Hi I'm a new file 1.0
+
+Now I'm adding a note here in the master branch.
